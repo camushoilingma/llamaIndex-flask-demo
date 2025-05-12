@@ -1,0 +1,13 @@
+# Core dependencies
+flask==3.0.2
+llama-index==0.10.16
+numpy==1.26.4
+requests==2.32.3
+
+# Additional dependencies required by llama-index
+python-dotenv==1.0.1
+typing-extensions==4.9.0
+packaging==24.0
+fsspec==2025.3.2
+pyyaml==6.0.1
+
